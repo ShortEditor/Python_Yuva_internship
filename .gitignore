@@ -1,0 +1,6 @@
+# Local temp / duplicate folders
+files/
+files.zip
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
