@@ -9,3 +9,11 @@ Repository containing assignments, projects, and pipeline code for the Python Yu
   - `Week1_Data_Cleaning_Report.docx`: Comprehensive project documentation and cleaning report.
   - `titanic_cleaned.csv`: Cleaned dataset with imputed values and standard formatting.
   - `titanic_model_ready.csv`: Encoded and scaled dataset ready for machine learning modeling.
+
+- **`week 2/`**: Titanic Dataset - Exploratory Data Analysis & Visualization
+  - `eda_titanic.py`: Reproducible exploratory data analysis and visualization script.
+  - `Week2_EDA_Visualization_Report.docx`: Comprehensive project documentation and analysis report.
+  - `titanic_cleaned.csv`: Cleaned dataset used for analysis.
+  - `submission_description.txt`: Project overview and submission summary.
+  - `figures/`: Report-ready EDA charts and plots.
+
