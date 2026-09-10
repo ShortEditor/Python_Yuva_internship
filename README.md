@@ -33,5 +33,16 @@ Repository containing assignments, projects, and pipeline code for the Python Yu
   - `submission_description.txt`: Project overview and supervised modeling summary.
   - `figures/`: Report-ready performance charts, ROC curve, confusion matrix, and permutation importances.
 
+- **`week 5/`**: Digits Dataset - Deep Learning & Convolutional Neural Network (CNN)
+  - `deep_learning_digits.py`: PyTorch script for CNN architecture, training loop, early stopping, and evaluation.
+  - `Week5_Deep_Learning_Report.docx`: Comprehensive project documentation and deep learning report.
+  - `digits_dataset.csv`: Tabular copy of the 8x8 grayscale digits dataset.
+  - `training_history.csv`: Epoch-by-epoch training and validation loss and accuracy metrics.
+  - `evaluation_metrics.csv`: Final test performance metrics.
+  - `confusion_matrix.csv`: Test set confusion matrix.
+  - `submission_description.txt`: Project overview and deep learning summary.
+  - `figures/`: Report-ready loss/accuracy curves, confusion matrix, architecture diagram, and prediction samples.
+
+
 
 

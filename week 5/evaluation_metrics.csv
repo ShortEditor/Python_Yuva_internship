@@ -1,0 +1,8 @@
+metric,value
+accuracy,0.9638888888888889
+weighted_precision,0.9652224593014067
+weighted_recall,0.9638888888888889
+weighted_f1,0.9632437014640209
+test_loss,0.11408025982479254
+trainable_parameters,13706.0
+epochs_trained,30.0
