@@ -25,4 +25,13 @@ Repository containing assignments, projects, and pipeline code for the Python Yu
   - `submission_description.txt`: Project overview and clustering methodology summary.
   - `figures/`: Report-ready clustering charts, elbow curves, PCA, and dendrograms.
 
+- **`week 4/`**: Breast Cancer Dataset - Supervised Learning & Binary Classification
+  - `supervised_learning_breast_cancer.py`: Python script for leakage-safe ML pipeline, cross-validation, GridSearchCV tuning, and evaluation.
+  - `Week4_Supervised_Learning_Report.docx`: Comprehensive project documentation and classification report.
+  - `breast_cancer_classification_dataset.csv`: Dataset with diagnostic features and target labels.
+  - `test_predictions.csv`: Model test set predictions with probabilities and class labels.
+  - `submission_description.txt`: Project overview and supervised modeling summary.
+  - `figures/`: Report-ready performance charts, ROC curve, confusion matrix, and permutation importances.
+
+
 
