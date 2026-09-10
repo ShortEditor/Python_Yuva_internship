@@ -43,6 +43,21 @@ Repository containing assignments, projects, and pipeline code for the Python Yu
   - `submission_description.txt`: Project overview and deep learning summary.
   - `figures/`: Report-ready loss/accuracy curves, confusion matrix, architecture diagram, and prediction samples.
 
+- **`week 6/`**: Titanic Dataset - Integrative Capstone Project (End-to-End Pipeline)
+  - `capstone_pipeline.py`: Comprehensive Python script integrating data cleaning, EDA, supervised learning (Random Forest), and unsupervised learning (K-Means).
+  - `Week6_Integrative_Capstone_Report.docx`: Final capstone project report and documentation.
+  - `titanic_cleaned.csv`: Cleaned dataset used for the capstone pipeline.
+  - `titanic_capstone_enriched.csv`: Enriched dataset with engineered features and cluster assignments.
+  - `supervised_metrics.csv`: Performance metrics for the Random Forest model.
+  - `supervised_confusion_matrix.csv`: Test confusion matrix for supervised evaluation.
+  - `cross_validation_summary.csv`: 5-fold cross-validation performance summary.
+  - `feature_importance.csv`: Feature importance scores from Random Forest.
+  - `cluster_selection_metrics.csv`: Inertia and silhouette metrics across candidate k values.
+  - `cluster_profiles.csv`: Mean feature profiles for passenger segments.
+  - `submission_description.txt`: Project overview and capstone summary.
+  - `figures/`: Report-ready EDA plots, model performance, feature importance, and cluster PCA charts.
+
+
 
 
 
