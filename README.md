@@ -17,3 +17,12 @@ Repository containing assignments, projects, and pipeline code for the Python Yu
   - `submission_description.txt`: Project overview and submission summary.
   - `figures/`: Report-ready EDA charts and plots.
 
+- **`week 3/`**: Iris Dataset - Unsupervised Learning & Clustering Analysis
+  - `clustering_iris.py`: Python script for feature scaling, K-Means clustering, PCA, and hierarchical clustering.
+  - `Week3_Unsupervised_Clustering_Report.docx`: Comprehensive project documentation and clustering report.
+  - `iris_clustered.csv`: Iris dataset with cluster assignments.
+  - `cluster_selection_metrics.csv`: Inertia and silhouette score evaluation metrics for K selection.
+  - `submission_description.txt`: Project overview and clustering methodology summary.
+  - `figures/`: Report-ready clustering charts, elbow curves, PCA, and dendrograms.
+
+
